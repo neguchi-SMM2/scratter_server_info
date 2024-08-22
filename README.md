@@ -1,0 +1,1 @@
+# scratter_server_info
